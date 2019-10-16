@@ -1,0 +1,19 @@
+body {
+
+  color: White;
+  font-family: sans-serif;
+  font-size: 1.2em;
+ background-image: URL("http://www.spacetelescope.org/static/archives/images/publicationjpg/heic1206a.jpg")
+
+}
+
+
+
+
+
+
+img{
+
+  width: 40%
+  position:relative;
+}
